@@ -1,0 +1,5 @@
+User: count words Chainlit es increíble | Bot: The text contains 3 words.
+User: analyze sentiment I love sunny days! | Bot: The sentiment of the text is: positive.
+User: summarize Artificial intelligence is the simulation of human intelligence processes by machines, especially computer systems. | Bot: Summary of the text: Artificial intelligence is the simulation of human intelligence processes by machines, especially computer systems.
+User: count words How many words are in this sentence? | Bot: The text contains 7 words.
+User: analyze sentiment This is the worst day ever. | Bot: The sentiment of the text is: negative.
